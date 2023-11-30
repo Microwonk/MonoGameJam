@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Microwonk/Dev/MonoGameJam/Content/background.png","C:/Users/Microwonk/Dev/MonoGameJam/Content/bin/DesktopGL/Content/background.xnb","TextureProcessor","Texture2DContent",4365,184405,0.1449205
+"C:/Users/Microwonk/Dev/MonoGameJam/Content/little-bear-idle.png","C:/Users/Microwonk/Dev/MonoGameJam/Content/bin/DesktopGL/Content/little-bear-idle.xnb","TextureProcessor","Texture2DContent",393,4181,0.1352211
+"C:/Users/Microwonk/Dev/MonoGameJam/Content/middleground.png","C:/Users/Microwonk/Dev/MonoGameJam/Content/bin/DesktopGL/Content/middleground.xnb","TextureProcessor","Texture2DContent",15306,368725,0.1403637
+"C:/Users/Microwonk/Dev/MonoGameJam/Content/startSprite.jpg","C:/Users/Microwonk/Dev/MonoGameJam/Content/bin/DesktopGL/Content/startSprite.xnb","TextureProcessor","Texture2DContent",16000,1272469,0.1948192
+"C:/Users/Microwonk/Dev/MonoGameJam/Content/tileset.png","C:/Users/Microwonk/Dev/MonoGameJam/Content/bin/DesktopGL/Content/tileset.xnb","TextureProcessor","Texture2DContent",15369,245845,0.1467727

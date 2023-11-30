@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Microwonk/Dev/MonoGameJam/Content/background.png</File>
+    <File>C:/Users/Microwonk/Dev/MonoGameJam/Content/little-bear-idle.png</File>
+    <File>C:/Users/Microwonk/Dev/MonoGameJam/Content/middleground.png</File>
+    <File>C:/Users/Microwonk/Dev/MonoGameJam/Content/startSprite.jpg</File>
+    <File>C:/Users/Microwonk/Dev/MonoGameJam/Content/tileset.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
